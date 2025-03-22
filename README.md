@@ -17,16 +17,16 @@ A simple **CRUD (Create, Read, Update, Delete) application** built with **React*
 ## 📸 Screenshots  
 
 ### 1️⃣ Home Page (User List)  
-![Screenshot 1](./screenshots/screenshot1.png)  
+![Screenshot 1](https://github.com/ItsMeAreebaAmjad/CRUD-ReactFirebase/blob/main/image1.png)  
 
 ### 2️⃣ Add New User  
-![Screenshot 2](./screenshots/screenshot2.png)  
+![Screenshot 2](https://github.com/ItsMeAreebaAmjad/CRUD-ReactFirebase/blob/main/image2.png)  
 
 ### 3️⃣ Edit User  
-![Screenshot 3](./screenshots/screenshot3.png)  
+![Screenshot 3](https://github.com/ItsMeAreebaAmjad/CRUD-ReactFirebase/blob/main/image4.png)  
 
 ### 4️⃣ Delete User Confirmation  
-![Screenshot 4](./screenshots/screenshot4.png)  
+![Screenshot 4](https://github.com/ItsMeAreebaAmjad/CRUD-ReactFirebase/blob/main/image5.png)  
 
 ---
 
