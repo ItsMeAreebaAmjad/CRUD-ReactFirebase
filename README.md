@@ -41,5 +41,5 @@ A simple **CRUD (Create, Read, Update, Delete) application** built with **React*
 
 1️⃣ **Clone this repository**  
 ```bash
-git clone https://github.com/your-username/firebase-crud-app.git
+git clone https://github.com/ItsMeAreebaAmjad/CRUD-ReactFirebase
 cd firebase-crud-app
